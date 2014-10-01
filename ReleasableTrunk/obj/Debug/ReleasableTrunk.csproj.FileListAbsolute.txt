@@ -1,6 +1,0 @@
-C:\Projects\Releasable Trunk Kata\Releasable Trunk\ReleasableTrunk\bin\Debug\ReleasableTrunk.exe.config
-C:\Projects\Releasable Trunk Kata\Releasable Trunk\ReleasableTrunk\bin\Debug\ReleasableTrunk.exe
-C:\Projects\Releasable Trunk Kata\Releasable Trunk\ReleasableTrunk\bin\Debug\ReleasableTrunk.pdb
-C:\Projects\Releasable Trunk Kata\Releasable Trunk\ReleasableTrunk\obj\Debug\ReleasableTrunk.csprojResolveAssemblyReference.cache
-C:\Projects\Releasable Trunk Kata\Releasable Trunk\ReleasableTrunk\obj\Debug\ReleasableTrunk.exe
-C:\Projects\Releasable Trunk Kata\Releasable Trunk\ReleasableTrunk\obj\Debug\ReleasableTrunk.pdb
